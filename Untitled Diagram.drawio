@@ -595,6 +595,15 @@
         <mxCell id="lmA2t54K3-LnT9eRzfX9-60" value="1. INVOICE_HEADER to INVOICE_LINE: One-to-Many&#xa;One invoice header can have multiple invoice lines.&#xa;&#xa;2. INVOICE_LINE to PRODUCT: Many-to-One&#xa;Many invoice lines can reference one product.&#xa;&#xa;3. PRODUCT to VENDOR: Many-to-One&#xa;Many products can be supplied by one vendor." style="text;align=left;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#000000);labelBackgroundColor=light-dark(#000000,#FFFFFF);labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="550" width="560" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="lmA2t54K3-LnT9eRzfX9-61" value="has" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmA2t54K3-LnT9eRzfX9-62" value="can reference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lmA2t54K3-LnT9eRzfX9-63" value="can be supplied" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
